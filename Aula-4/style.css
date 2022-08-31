@@ -1,0 +1,38 @@
+.primeirasListas{
+    color: blueviolet;
+}
+
+.segundasListas{
+    color: brown;
+}
+
+.terceiraLista{
+    color: darkred;
+}
+
+#titulo{
+    color: blue;
+}
+
+.paragrafo{
+    font-size: 20px;
+    font-family: monospace;
+    line-height: 22px;
+    border-width: 15px;
+    border: solid;
+    border-color: blue;    
+}
+
+.intro{
+    color: indigo;
+}
+
+.frases{
+    color: indigo;
+    font-family: cursive;
+}
+
+.img{
+    max-width: 250%;
+    max-height: 100%;
+}
